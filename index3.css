@@ -1,0 +1,80 @@
+*{
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    background: rgb(250, 163, 221);
+}
+header{
+    position: relative;
+    left: 200px;
+}
+.ver {
+    
+  
+    background-color: #1b1718;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    width: 400px;
+    transition: 0.2s;
+    position: fixed;
+
+    left: 980px;
+    bottom: 480px;
+    border-radius: 5px;
+    min-width: 200px;
+    text-decoration: none;
+  
+}
+.ver:hover{
+    background-color: rgb(235, 113, 235);
+    position: fixed;
+    left: 960px;
+}
+.ver2 {
+    
+  
+    background-color: #1b1718;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    width: 400px;
+    transition: 0.2s;
+    position: fixed;
+
+    left: 980px;
+    bottom: 540px;
+    border-radius: 5px;
+    min-width: 200px;
+    text-decoration: none;
+  
+}
+.ver2:hover{
+    background-color: rgb(235, 113, 235);
+    position: fixed;
+    left: 960px;
+}
+.ver3 {
+
+
+    background-color: #1b1718;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    width: 400px;
+    transition: 0.2s;
+    position: fixed;
+
+    left: 980px;
+    bottom: 420px;
+    border-radius: 5px;
+    min-width: 200px;
+    text-decoration: none;
+
+}
+
+.ver3:hover {
+
+    background-color: rgb(235, 113, 235);
+    position: fixed;
+    left: 960px;
+}
